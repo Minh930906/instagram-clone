@@ -1,5 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-https://netflix-clone-d7702.web.app/
 
 ## Available Scripts
 
